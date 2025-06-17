@@ -8,7 +8,7 @@ Project Goals
 - Cover 80–90% of knowledge expected from a Junior–Middle Java Developer
 - Practice OOP, abstraction, polymorphism, and other core principles
 - Transition to Spring Framework in later stages
-- Prepare a project that can serve as a portfolio piece for employment or freelance
+- Prepare a project that can serve as a portfolio piece for employment or freelancep
 
  What You'll Find Here
 
