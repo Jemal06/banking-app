@@ -2,7 +2,7 @@
 
 Java-based backend banking application designed as a full-featured project for mastering core and advanced Java development. The goal is to simulate a realistic backend system used in financial applications, while practicing essential programming concepts.
 
-## 📌 Project Goals
+Project Goals
 
 - Build a realistic backend architecture for a banking system
 - Cover 80–90% of knowledge expected from a Junior–Middle Java Developer
@@ -10,7 +10,7 @@ Java-based backend banking application designed as a full-featured project for m
 - Transition to Spring Framework in later stages
 - Prepare a project that can serve as a portfolio piece for employment or freelance
 
-## 🧠 What You'll Find Here
+ What You'll Find Here
 
 - Java OOP (classes, inheritance, polymorphism, interfaces, encapsulation)
 - Bank account operations: deposit, withdraw, balance check
@@ -18,7 +18,7 @@ Java-based backend banking application designed as a full-featured project for m
 - Modular, scalable architecture with clear separation of concerns
 - Clean code principles
 
-## ✅ Features (Work In Progress)
+Features (Work In Progress)
 
 - [x] Basic user & account creation
 - [x] Deposit and withdrawal functionality
@@ -30,18 +30,18 @@ Java-based backend banking application designed as a full-featured project for m
 - [ ] REST API endpoints
 - [ ] Database persistence (JPA + PostgreSQL)
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - Java 17+
 - IntelliJ IDEA
 - Git + GitHub
 - (Planned) Spring Boot, Hibernate, PostgreSQL
 
-## 🚧 Work in Progress
+Work in Progress
 
 This is an actively developed learning project. Features and architecture will evolve as new concepts are studied and implemented. The aim is not just to "finish" the app but to learn deeply through real development experience.
 
-## 📚 Learning Topics Covered
+Learning Topics Covered
 
 - Object-Oriented Programming
 - SOLID principles
@@ -50,7 +50,7 @@ This is an actively developed learning project. Features and architecture will e
 - CLI application design
 - (Upcoming) Spring Boot, REST, DB integration
 
-## 📦 Run Locally
+Run Locally
 
 To run this project:
 
